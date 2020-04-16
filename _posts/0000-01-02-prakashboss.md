@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This file is written by Prakash for slide instructions
 Use the left arrow to go back!
